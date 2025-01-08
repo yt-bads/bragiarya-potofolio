@@ -773,4 +773,13 @@ span {
     .services-container {
         grid-template-columns: repeat(1,1fr);
     }
+    .service-box {
+        height: 230px;
+    }
 }
+
+/* @media(max-width:540px) {
+    .service-box {
+        height: 280px;
+    }
+} */
