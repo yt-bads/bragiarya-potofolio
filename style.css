@@ -776,6 +776,9 @@ span {
     .service-box {
         height: 230px;
     }
+    .service-box .service-info {
+        padding: 1.5rem 2rem;
+    }
 }
 
 /* @media(max-width:540px) {
