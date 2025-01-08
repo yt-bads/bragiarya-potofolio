@@ -721,6 +721,9 @@ span {
 }
 
 @media(max-width:895px) {
+    html .home-content h1 {
+        font-size: 4rem;
+    }
     #menu-icon {
         display: block;
     }
